@@ -1,0 +1,17 @@
+ADVANCED ALGO 
+	
+	Methods which derive running time of Algorithm:
+
+-> RAM(RANDOM ACCESS MACHINE) Method (Constant Time)
+	+ , -, / , *. O(1) TIME COMPLEXITY
+-> STEP COUNTING … Depends on the input size
+-> ASYMPTOTIC CLASS METHOD
+
+Upper Bound -> Worst case
+Lower Bound -> Best case
+Tight Bound -> Avg case  Todo: Learn Heap
+
+Group project 60pts Sept 16 Report < 5 pages Add comments
+Creative GUI
+
+I am working on  Documentation and presentation
